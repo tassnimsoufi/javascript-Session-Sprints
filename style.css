@@ -245,5 +245,9 @@ ul li .audio-duration{
 }
 ul li.playing{
   pointer-events: none;
+  /* color: white; */
+  background-color: white;
   color: var(--violet);
+  border-radius: 5px;
+  padding: 5px;
 }
